@@ -6,8 +6,6 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 public class Bot extends TelegramLongPollingBot {
-    final private String BOT_TOKEN = "5799195135:AAFLPYopZFuNlaJRERouDq8wAmgV_14czTk";
-    final private String BOT_NAME = "AvitoSeekBot";
 
     public static void main(String[] args) {
         try {
